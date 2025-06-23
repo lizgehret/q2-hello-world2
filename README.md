@@ -31,10 +31,11 @@ Once you have the directory on your computer, change (`cd`) into it.
 If you're in a conda environment, deactivate it by running `conda deactivate`.
 
 
-Then, follow the install instructions below, based on your machine's architecture.
+Then, follow the install instructions below, based on your machine's architecture:
 
 <details>
 <summary><strong>Apple Silicon (M1/M2/M3/M4 etc)</strong></summary>
+
 
 Start by creating a new conda environment:
 
@@ -63,6 +64,7 @@ make install
 
 <details>
 <summary><strong>All other architectures (Apple Intel, Linux, WSL)</strong></summary>
+
 
 Start by creating a new conda environment:
 
