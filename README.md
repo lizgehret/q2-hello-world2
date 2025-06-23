@@ -34,7 +34,7 @@ If you're in a conda environment, deactivate it by running `conda deactivate`.
 Then, follow the install instructions below, based on your machine's architecture:
 
 <details>
-<summary><strong>Apple Silicon (M1/M2/M3/M4 etc)</strong></summary>
+<summary><strong>🍏&nbsp;Apple Silicon (M1/M2/M3/M4 etc)</strong></summary>
 <p>&nbsp;</p>
 
 Start by creating a new conda environment:
@@ -63,7 +63,7 @@ make install
 </details>
 
 <details>
-<summary><strong>All other architectures (Apple Intel, Linux, WSL)</strong></summary>
+<summary><strong>🛠&nbsp;All other architectures (Apple Intel, Linux, WSL)</strong></summary>
 <p>&nbsp;</p>
 
 Start by creating a new conda environment:
