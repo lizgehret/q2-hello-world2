@@ -7,4 +7,4 @@ dependencies:
   # Note 1: Add any additional conda dependencies here.
   - pip
   - pip:
-    - q2-hello-world2@git+https://github.com/lizgehret/q2-hello-world2.git
+    - q2-hello-world2@git+https://github.com/lizgehret/q2-hello-world2.git@main
