@@ -1,0 +1,9 @@
+channels:
+- https://packages.qiime2.org/qiime2/2025.7/tiny/released
+- conda-forge
+- bioconda
+dependencies:
+- qiime2-tiny
+- pip
+- pip:
+  - q2-hello-world2@git+https://github.com/lizgehret/q2-hello-world2.git@1.0.2
