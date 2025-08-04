@@ -1,0 +1,18 @@
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# Changes here will be overwritten by Copier
+# NEVER EDIT MANUALLY
+# INSTEAD: run a recopy or update command
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+_commit: c859309
+_src_path: https://github.com/caporaso-lab/plugin-template.git
+author_email: q2-dev@example.com
+author_name: A QIIME 2 Plugin Developer
+license: BSD-3-Clause
+module_name: q2_hello_world2
+package_name: q2-hello-world2
+plugin_description: A QIIME 2 plugin template.
+plugin_name: hello-world2
+plugin_short_description: Plugin template.
+project_url: https://example.com
+target_distro: tiny
